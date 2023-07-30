@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Components\helpers\AssetUnion;
+namespace AssetUnion;
 
 class AssetUnion {
 
